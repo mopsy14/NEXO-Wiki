@@ -7,7 +7,7 @@ nav:
  - 'getting_started.md'
  - 'Blocks':
    - 'Air Separator':
-     - 'blocks/machines/air_separator/air_separator.md'
+     - 'Air Separator': 'blocks/machines/air_separator/air_separator'
      - 'blocks/machines/air_separator/air_pump.md'
      - 'blocks/machines/air_separator/conduit.md'
      - 'blocks/machines/air_separator/cooler.md'
