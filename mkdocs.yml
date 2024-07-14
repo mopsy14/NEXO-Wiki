@@ -2,28 +2,28 @@ site_name: NEXO Wiki
 theme:
   name: readthedocs
 nav:
- - 'index.md'
  - 'installation.md'
  - 'getting_started.md'
  - 'Blocks':
-   - 'Air Separator':
-     - 'Air Separator': 'blocks/machines/air_separator/air_separator'
-     - 'blocks/machines/air_separator/air_pump.md'
-     - 'blocks/machines/air_separator/conduit.md'
-     - 'blocks/machines/air_separator/cooler.md'
-   - 'blocks/machines/ammonia_synthesizer.md'
-   - 'blocks/machines/battery.md'
-   - 'blocks/machines/centrifuge.md'
-   - 'blocks/machines/crusher.md'
-   - 'blocks/machines/decon_shower.md'
-   - 'blocks/machines/electric_furnace.md'
-   - 'blocks/machines/electrolyzer.md'
-   - 'blocks/machines/furnace_generator.md'
-   - 'blocks/machines/mixer.md'
-   - 'blocks/machines/press.md'
-   - 'Small Nuclear Reactor':
-     - 'blocks/machines/small_nuclear_reactor/small_reactor.md'
-     - 'blocks/machines/small_nuclear_reactor/control_rods.md'
-     - 'blocks/machines/small_nuclear_reactor/small_reactor_hatches.md'
-   - 'blocks/machines/steam_turbine.md'
-   - 'blocks/machines/tank.md'
+   - 'Machines': 
+     - 'Air Separator':
+       - 'blocks/machines/air_separator/air_separator.md'
+       - 'blocks/machines/air_separator/air_pump.md'
+       - 'blocks/machines/air_separator/conduit.md'
+       - 'blocks/machines/air_separator/cooler.md'
+     - 'blocks/machines/ammonia_synthesizer.md'
+     - 'blocks/machines/battery.md'
+     - 'blocks/machines/centrifuge.md'
+     - 'blocks/machines/crusher.md'
+     - 'blocks/machines/decon_shower.md'
+     - 'blocks/machines/electric_furnace.md'
+     - 'blocks/machines/electrolyzer.md'
+     - 'blocks/machines/furnace_generator.md'
+     - 'blocks/machines/mixer.md'
+     - 'blocks/machines/press.md'
+     - 'Small Nuclear Reactor':
+       - 'blocks/machines/small_nuclear_reactor/small_reactor.md'
+       - 'blocks/machines/small_nuclear_reactor/control_rods.md'
+       - 'blocks/machines/small_nuclear_reactor/small_reactor_hatches.md'
+     - 'blocks/machines/steam_turbine.md'
+     - 'blocks/machines/tank.md'
