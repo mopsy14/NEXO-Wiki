@@ -2,6 +2,7 @@ site_name: NEXO Wiki
 theme:
   name: readthedocs
 nav:
+ - 'index.md'
  - 'installation.md'
  - 'getting_started.md'
  - 'Blocks':
