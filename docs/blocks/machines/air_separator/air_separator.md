@@ -1,6 +1,13 @@
 Air Separator
 =============
 
-The Air Separator Block is the control block the Air Separator Multiblock.
-You need to connect [coolers](cooler.md), [air pumps](air_pump.md) to the Air Separator Block to make the Air Separator Multiblock.
-You can use [conduits](conduit.md) to indirectly connect [coolers](cooler.md) and [air pumps](air_pump.md) to the Air Separator Block, however this has no use yet.
+The Air Separator Block is the control block of the Air Separator multiblock.
+
+Use
+You need to connect [Coolers](cooler.md) and [Air Pumps](air_pump.md) to the Air Separator Block (or indirectly via [Conduits](conduit.md), however this has no use yet), to make the Air Separator Multiblock. When you have also given the Multiblock power, it will literally produce Nitrogen and Oxygen out of thin air.
+
+Recipe
+(Picture Placeholder)
+
+Real Science
+Coming Soon?
