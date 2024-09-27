@@ -7,4 +7,4 @@ Underneath you need to place the [Small Reactor Hatches Block](small_reactor_hat
 Use
 
 Recipe:
-![](../../img/small_reactor.png)
+![](../../../img/small_reactor.png)

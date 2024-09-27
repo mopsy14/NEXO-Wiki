@@ -7,4 +7,4 @@ Use
 Place the Cooler against a Conduit or directly against the [The Air Separator](air_separator.md) and it cool off the air inside of the [The Air Separator](air_separator.md).
 
 Recipe:
-![](../../img/cooler.png)
+![](../../../img/cooler.png)

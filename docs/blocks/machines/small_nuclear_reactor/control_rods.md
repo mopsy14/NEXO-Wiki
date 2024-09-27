@@ -7,4 +7,4 @@ If the [Small Nuclear Reactor](small_reactor.md) is turned on, the Control Rods 
 Use
 
 Recipe:
-![](../../img/control_rods.png)
+![](../../../img/control_rods.png)
