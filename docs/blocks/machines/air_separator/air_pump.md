@@ -8,6 +8,3 @@ Place the Air Pump against a [Conduit](conduit.md) or directly against the [The 
 
 Recipe
 (Picture Placeholder)
-
-Real Science
-Coming Soon?

@@ -8,6 +8,3 @@ You can use it to indirectly connect [Coolers](cooler.md) and [Air Pumps](air_pu
 
 Recipe
 (Picture Placeholder)
-
-Real Science
-Coming Soon?

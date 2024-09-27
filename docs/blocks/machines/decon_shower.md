@@ -9,6 +9,3 @@ Use
 
 Recipe
 (Picture Placeholder)
-
-Real Science
-Coming Soon?

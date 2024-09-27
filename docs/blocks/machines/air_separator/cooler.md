@@ -8,6 +8,3 @@ Place the Cooler against a Conduit or directly against the [The Air Separator](a
 
 Recipe
 (Picture Placeholder)
-
-Real Science
-Coming Soon?

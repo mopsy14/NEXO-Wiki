@@ -8,6 +8,3 @@ You need to connect [Coolers](cooler.md) and [Air Pumps](air_pump.md) to the Air
 
 Recipe
 (Picture Placeholder)
-
-Real Science
-Coming Soon?
