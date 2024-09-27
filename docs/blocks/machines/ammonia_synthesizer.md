@@ -5,4 +5,4 @@ The Ammonia Synthesizer is a machine which is used to make Ammonia. The process 
 
 
 Recipe:
-![](/img/ammonia_synthesizer.png)
+![](../../img/ammonia_synthesizer.png)

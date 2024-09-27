@@ -5,4 +5,4 @@ The Centrifuge is a machine which is used to split fluids. The process of using 
 
 
 Recipe:
-![](/img/centrifuge.png)
+![](../../img/centrifuge.png)

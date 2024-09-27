@@ -7,4 +7,4 @@ Use
 You can use it to indirectly connect [Coolers](cooler.md) and [Air Pumps](air_pump.md) to the [Air Separator Block](air_separator.md), however this has no use yet.
 
 Recipe:
-![](/img/conduit.png)
+![](../../img/conduit.png)

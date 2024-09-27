@@ -5,4 +5,4 @@ The Crusher is a machine which is used to make dusts. The process of using this 
 
 
 Recipe:
-![](/img/crusher.png)
+![](../../img/crusher.png)

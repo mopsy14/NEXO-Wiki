@@ -7,10 +7,10 @@ You also have the Decon Shower Drain, which drains all the contaminated water ou
 
 
 Recipe(Decon Shower):
-![](/img/decon_shower.png)
+![](../../img/decon_shower.png)
 
 Recipe(Decon Shower Drain):
-![](/img/decon_shower_drain.png)
+![](../../img/decon_shower_drain.png)
 
 Total Decon Shower Build:
-![](/img/total_decon_shower.png)
+![](../../img/total_decon_shower.png)

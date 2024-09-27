@@ -5,7 +5,7 @@ The Electric Furnace is a machine which is used smelt items. The process of usin
 
 
 Recipe:
-![](/img/electric_furnace.png)
+![](../../img/electric_furnace.png)
 
 UI:
-![](/img/electric_furnace_UI.png)
+![](../../img/electric_furnace_UI.png)

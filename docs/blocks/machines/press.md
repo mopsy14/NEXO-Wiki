@@ -5,4 +5,4 @@ The Press is a machine which is used to make plates (and the portable crafting t
 
 
 Recipe:
-![](/img/press.png)
+![](../../img/press.png)

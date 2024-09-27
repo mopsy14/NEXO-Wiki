@@ -7,4 +7,4 @@ Use
 Place the Air Pump against a [Conduit](conduit.md) or directly against the [The Air Separator](air_separator.md) and it will pump the air into the [The Air Separator](air_separator.md). 
 
 Recipe:
-![](/img/air_pump.png)
+![](../../img/air_pump.png)

@@ -5,4 +5,4 @@ The Electrolyzer is a machine which is used to split items and fluids. The proce
 
 
 Recipe:
-![](/img/electrolyzer.png)
+![](../../img/electrolyzer.png)

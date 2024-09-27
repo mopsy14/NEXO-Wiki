@@ -5,4 +5,4 @@ The Mixer is a machine which is used to mix items and/or fluids. The process of 
 
 
 Recipe:
-![](/img/mixer.png)
+![](../../img/mixer.png)
