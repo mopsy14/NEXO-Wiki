@@ -10,5 +10,5 @@
     - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api-fabric) (Required dependencies for REI.)
     - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) (Required dependencies for REI.)
 
-4. **Download NEXO Mod**: Get the latest version from the [NEXO Modrinth Releases]().
+4. **Download NEXO Mod**: Get the latest version from the [NEXO Modrinth Releases](https://modrinth.com/project/nexo/versions).
 5. **Place Mods in Mods Folder**: Move the downloaded `.jar` files into your Minecraft `mods` folder (located in `.minecraft`).

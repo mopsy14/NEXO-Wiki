@@ -6,5 +6,5 @@ On the left side of the block (the one with a blue line) is the water input. On 
 
 Use
 
-Recipe
-(Picture Placeholder)
+Recipe:
+![](/img/small_reactor_hatches.png)

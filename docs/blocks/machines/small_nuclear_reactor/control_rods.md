@@ -6,5 +6,5 @@ If the [Small Nuclear Reactor](small_reactor.md) is turned on, the Control Rods 
 
 Use
 
-Recipe
-(Picture Placeholder)
+Recipe:
+![](/img/control_rods.png)
